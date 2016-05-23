@@ -1,6 +1,6 @@
 # alfresco-reverse-proxy
 
-This project covers configuration and scripts to put Alfrsco ECM securly and fast behind a reverse proxy.
+This project covers configuration and scripts to put Alfresco ECM securly and fast behind a reverse proxy.
 
 
 ## Copyright and License
